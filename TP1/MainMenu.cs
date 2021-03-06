@@ -5,10 +5,12 @@ using System.Reflection;
 using System.Windows.Forms;
 using System.Collections;
 using System.Collections.Generic;
+using MaterialSkin;
+using MaterialSkin.Controls;
 
 namespace TP1
 {
-    public partial class MainMenu : Form
+    public partial class MainMenu : MaterialForm
     {
         private item_box[] items;
         private int itemNum;
@@ -139,6 +141,11 @@ namespace TP1
         public MainMenu()
         {
             InitializeComponent();
+
+            var materialSkinManager = MaterialSkinManager.Instance;
+            materialSkinManager.AddFormToManage(this);
+            materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
+            materialSkinManager.ColorScheme = new ColorScheme(Primary.BlueGrey800, Primary.Grey900, Primary.DeepOrange800, Accent.LightBlue200, TextShade.WHITE);
             var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().GetName().CodeBase).Replace("\\bin\\Debug", "").Replace("\\bin\\Release", "");
             this.bt_logo.Image = SvgDocument.Open<SvgDocument>(Path.Combine(outPutDirectory, "Resources\\face-24px.svg").Replace("file:\\", "")).Draw();
             this.bt_home.Image = SvgDocument.Open<SvgDocument>(Path.Combine(outPutDirectory, "Resources\\home-24px.svg").Replace("file:\\", "")).Draw();

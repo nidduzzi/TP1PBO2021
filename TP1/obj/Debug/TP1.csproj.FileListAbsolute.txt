@@ -61,3 +61,4 @@ C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.exe
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.pdb
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\bin\Debug\MaterialSkin.dll

@@ -1,14 +1,18 @@
 ﻿using System;
 using System.Windows.Forms;
+using MaterialSkin;
+using MaterialSkin.Controls;
 
 namespace TP1
 {
-    public partial class Login : Form
+    public partial class Login : MaterialForm
     {
         private Auth auth;
         public Login()
         {
             InitializeComponent();
+            var materialSkinManager = MaterialSkinManager.Instance;
+            materialSkinManager.AddFormToManage(this);
             this.auth = new Auth();
             this.DialogResult = DialogResult.Abort;
             tb_password.UseSystemPasswordChar = true;
