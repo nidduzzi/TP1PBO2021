@@ -91,6 +91,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="item_box.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="item_box.Designer.cs">
+      <DependentUpon>item_box.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="item_box.resx">
+      <DependentUpon>item_box.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -139,10 +148,26 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg" />
+    <None Include="Resources\rachit-tank-2cFZ_FB08UM-unsplash.jpg" />
+    <None Include="Resources\miguel-andrade-potCPE_Cw8A-unsplash.jpg" />
+    <None Include="Resources\mae-mu-GnWKTJlMYsQ-unsplash.jpg" />
+    <None Include="Resources\battlecreek-coffee-roasters-rsnzc-8dVs0-unsplash.jpg" />
+    <None Include="Resources\alexander-andrews-BX4Q0gojWAs-unsplash.jpg" />
+    <None Include="Resources\caroline-attwood-E1rH__X9SA0-unsplash.jpg" />
+    <None Include="Resources\c-d-x-PDX_a_82obo-unsplash.jpg" />
+    <None Include="Resources\curology-SjqgfcH207A-unsplash.jpg" />
     <Content Include="Resources\dashboard-24px.svg" />
+    <None Include="Resources\eniko-kis-KsLPTsYaqIQ-unsplash.jpg" />
     <Content Include="Resources\face-24px.svg" />
+    <None Include="Resources\gabrielle-henderson-1DMNn6gBbwQ-unsplash.jpg" />
+    <None Include="Resources\giorgio-trovato-K62u25Jk6vo-unsplash.jpg" />
     <Content Include="Resources\home-24px.svg" />
+    <None Include="Resources\kaleb-tapp-8q19GH2I88s-unsplash.jpg" />
+    <None Include="Resources\imani-bahati-LxVxPA1LOVM-unsplash.jpg" />
+    <None Include="Resources\jakob-owens-O_bhy3TnSYU-unsplash.jpg" />
     <Content Include="Resources\logout-24px.svg" />
+    <None Include="Resources\revolt-164_6wVEHfI-unsplash.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TP1
+﻿namespace TP1
 {
     class Auth
     {
@@ -12,7 +6,7 @@ namespace TP1
 
         public bool authenticate(string username, string password)
         {
-            if(m_password == password)
+            if (m_password == password)
                 return true;
             return false;
         }

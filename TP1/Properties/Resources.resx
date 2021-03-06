@@ -117,4 +117,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="revolt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\revolt-164_6wVEHfI-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kaleb-tapp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kaleb-tapp-8q19GH2I88s-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battlecreek-coffee-roasters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battlecreek-coffee-roasters-rsnzc-8dVs0-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="alexander_andrews" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\alexander-andrews-BX4Q0gojWAs-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caroline_attwood" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\caroline-attwood-E1rH__X9SA0-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="curology" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\curology-SjqgfcH207A-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c_d_x_PDX_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c-d-x-PDX_a_82obo-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eniko_kis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eniko-kis-KsLPTsYaqIQ-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gabrielle_henderson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gabrielle-henderson-1DMNn6gBbwQ-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giorgio_trovato" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giorgio-trovato-K62u25Jk6vo-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imani_bahati" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imani-bahati-LxVxPA1LOVM-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jakob_owens" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jakob-owens-O_bhy3TnSYU-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mae_mu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mae-mu-GnWKTJlMYsQ-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="miguel_andrade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\miguel-andrade-potCPE_Cw8A-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rachit_tank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rachit-tank-2cFZ_FB08UM-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ruslan_bardash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

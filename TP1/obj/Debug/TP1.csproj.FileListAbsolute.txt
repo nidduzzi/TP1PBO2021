@@ -50,8 +50,8 @@ C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\bin\Debug\Sy
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\bin\Debug\System.ValueTuple.xml
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.App.resources
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.item_box.resources
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.Login.resources
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.MainMenu.resources
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.Properties.Resources.resources
@@ -60,3 +60,4 @@ C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.csproj.CopyComplete
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.exe
 C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.pdb
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1\obj\Debug\TP1.csprojAssemblyReference.cache

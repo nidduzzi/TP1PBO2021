@@ -1,0 +1,8 @@
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\bin\Debug\item_box.dll
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\bin\Debug\item_box.pdb
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\lib.csprojAssemblyReference.cache
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\item_box.item_box.resources
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\lib.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\item_box.dll
+C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\item_box\obj\Debug\item_box.pdb
