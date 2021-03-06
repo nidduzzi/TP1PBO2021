@@ -39,7 +39,7 @@ namespace TP1
             // lb_username
             // 
             this.lb_username.AutoSize = true;
-            this.lb_username.Location = new System.Drawing.Point(10, 73);
+            this.lb_username.Location = new System.Drawing.Point(18, 105);
             this.lb_username.Name = "lb_username";
             this.lb_username.Size = new System.Drawing.Size(55, 13);
             this.lb_username.TabIndex = 0;
@@ -47,14 +47,14 @@ namespace TP1
             // 
             // tb_username
             // 
-            this.tb_username.Location = new System.Drawing.Point(98, 70);
+            this.tb_username.Location = new System.Drawing.Point(106, 102);
             this.tb_username.Name = "tb_username";
             this.tb_username.Size = new System.Drawing.Size(203, 20);
             this.tb_username.TabIndex = 1;
             // 
             // tb_password
             // 
-            this.tb_password.Location = new System.Drawing.Point(98, 96);
+            this.tb_password.Location = new System.Drawing.Point(106, 128);
             this.tb_password.Name = "tb_password";
             this.tb_password.Size = new System.Drawing.Size(203, 20);
             this.tb_password.TabIndex = 3;
@@ -62,7 +62,7 @@ namespace TP1
             // lb_password
             // 
             this.lb_password.AutoSize = true;
-            this.lb_password.Location = new System.Drawing.Point(10, 99);
+            this.lb_password.Location = new System.Drawing.Point(18, 131);
             this.lb_password.Name = "lb_password";
             this.lb_password.Size = new System.Drawing.Size(53, 13);
             this.lb_password.TabIndex = 2;
@@ -70,7 +70,7 @@ namespace TP1
             // 
             // bt_login
             // 
-            this.bt_login.Location = new System.Drawing.Point(218, 122);
+            this.bt_login.Location = new System.Drawing.Point(226, 154);
             this.bt_login.Name = "bt_login";
             this.bt_login.Size = new System.Drawing.Size(83, 36);
             this.bt_login.TabIndex = 4;
@@ -82,7 +82,7 @@ namespace TP1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(313, 202);
+            this.ClientSize = new System.Drawing.Size(329, 241);
             this.Controls.Add(this.bt_login);
             this.Controls.Add(this.tb_password);
             this.Controls.Add(this.lb_password);

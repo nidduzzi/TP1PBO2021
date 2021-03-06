@@ -67,7 +67,7 @@ namespace TP1
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.11111F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84.88889F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1014, 479);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1014, 559);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel3
@@ -87,7 +87,7 @@ namespace TP1
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(845, 72);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(845, 84);
             this.tableLayoutPanel3.TabIndex = 1;
             // 
             // tableLayoutPanel5
@@ -103,7 +103,7 @@ namespace TP1
             this.tableLayoutPanel5.RowCount = 2;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(212, 72);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(212, 84);
             this.tableLayoutPanel5.TabIndex = 0;
             // 
             // lb_nim
@@ -113,7 +113,7 @@ namespace TP1
             this.lb_nim.Location = new System.Drawing.Point(3, 3);
             this.lb_nim.Margin = new System.Windows.Forms.Padding(3);
             this.lb_nim.Name = "lb_nim";
-            this.lb_nim.Size = new System.Drawing.Size(206, 30);
+            this.lb_nim.Size = new System.Drawing.Size(206, 36);
             this.lb_nim.TabIndex = 0;
             this.lb_nim.Text = "1908919";
             this.lb_nim.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -122,10 +122,10 @@ namespace TP1
             // 
             this.lb_name.AutoSize = true;
             this.lb_name.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lb_name.Location = new System.Drawing.Point(3, 39);
+            this.lb_name.Location = new System.Drawing.Point(3, 45);
             this.lb_name.Margin = new System.Windows.Forms.Padding(3);
             this.lb_name.Name = "lb_name";
-            this.lb_name.Size = new System.Drawing.Size(206, 30);
+            this.lb_name.Size = new System.Drawing.Size(206, 36);
             this.lb_name.TabIndex = 1;
             this.lb_name.Text = "Ahmad Izzuddin";
             this.lb_name.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -135,7 +135,7 @@ namespace TP1
             this.bt_home.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bt_home.Location = new System.Drawing.Point(3, 3);
             this.bt_home.Name = "bt_home";
-            this.bt_home.Size = new System.Drawing.Size(205, 66);
+            this.bt_home.Size = new System.Drawing.Size(205, 78);
             this.bt_home.TabIndex = 1;
             this.bt_home.Text = "Home";
             this.bt_home.UseVisualStyleBackColor = true;
@@ -146,7 +146,7 @@ namespace TP1
             this.bt_logout.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bt_logout.Location = new System.Drawing.Point(425, 3);
             this.bt_logout.Name = "bt_logout";
-            this.bt_logout.Size = new System.Drawing.Size(205, 66);
+            this.bt_logout.Size = new System.Drawing.Size(205, 78);
             this.bt_logout.TabIndex = 2;
             this.bt_logout.Text = "Logout";
             this.bt_logout.UseVisualStyleBackColor = true;
@@ -157,7 +157,7 @@ namespace TP1
             this.bt_catalouge.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bt_catalouge.Location = new System.Drawing.Point(214, 3);
             this.bt_catalouge.Name = "bt_catalouge";
-            this.bt_catalouge.Size = new System.Drawing.Size(205, 66);
+            this.bt_catalouge.Size = new System.Drawing.Size(205, 78);
             this.bt_catalouge.TabIndex = 3;
             this.bt_catalouge.Text = "Catalouge";
             this.bt_catalouge.UseVisualStyleBackColor = true;
@@ -171,7 +171,7 @@ namespace TP1
             this.sidebar.Controls.Add(this.cb_jenis, 0, 0);
             this.sidebar.Controls.Add(this.bt_search, 0, 2);
             this.sidebar.Dock = System.Windows.Forms.DockStyle.Top;
-            this.sidebar.Location = new System.Drawing.Point(0, 72);
+            this.sidebar.Location = new System.Drawing.Point(0, 84);
             this.sidebar.Margin = new System.Windows.Forms.Padding(0);
             this.sidebar.Name = "sidebar";
             this.sidebar.RowCount = 3;
@@ -229,7 +229,7 @@ namespace TP1
             this.bt_logo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.bt_logo.Location = new System.Drawing.Point(3, 3);
             this.bt_logo.Name = "bt_logo";
-            this.bt_logo.Size = new System.Drawing.Size(163, 66);
+            this.bt_logo.Size = new System.Drawing.Size(163, 78);
             this.bt_logo.TabIndex = 3;
             this.bt_logo.UseVisualStyleBackColor = true;
             // 
@@ -240,12 +240,12 @@ namespace TP1
             this.menu_table.Controls.Add(this.item_table, 0, 1);
             this.menu_table.Controls.Add(this.lb_menuDetail, 0, 0);
             this.menu_table.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.menu_table.Location = new System.Drawing.Point(172, 75);
+            this.menu_table.Location = new System.Drawing.Point(172, 87);
             this.menu_table.Name = "menu_table";
             this.menu_table.RowCount = 2;
             this.menu_table.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 6.100796F));
             this.menu_table.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 93.8992F));
-            this.menu_table.Size = new System.Drawing.Size(839, 401);
+            this.menu_table.Size = new System.Drawing.Size(839, 469);
             this.menu_table.TabIndex = 4;
             // 
             // item_table
@@ -256,19 +256,19 @@ namespace TP1
             this.item_table.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.item_table.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.item_table.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.item_table.Location = new System.Drawing.Point(3, 27);
+            this.item_table.Location = new System.Drawing.Point(3, 31);
             this.item_table.Name = "item_table";
             this.item_table.RowCount = 2;
             this.item_table.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.item_table.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.item_table.Size = new System.Drawing.Size(833, 371);
+            this.item_table.Size = new System.Drawing.Size(833, 435);
             this.item_table.TabIndex = 2;
             // 
             // lb_menuDetail
             // 
             this.lb_menuDetail.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lb_menuDetail.AutoSize = true;
-            this.lb_menuDetail.Location = new System.Drawing.Point(3, 5);
+            this.lb_menuDetail.Location = new System.Drawing.Point(3, 7);
             this.lb_menuDetail.Margin = new System.Windows.Forms.Padding(3);
             this.lb_menuDetail.Name = "lb_menuDetail";
             this.lb_menuDetail.Size = new System.Drawing.Size(80, 13);
@@ -279,11 +279,12 @@ namespace TP1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1020, 546);
+            this.ClientSize = new System.Drawing.Size(1020, 626);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.MinimumSize = new System.Drawing.Size(816, 489);
+            this.MaximumSize = new System.Drawing.Size(1020, 626);
+            this.MinimumSize = new System.Drawing.Size(1020, 626);
             this.Name = "MainMenu";
-            this.Text = "mainMenu";
+            this.Text = "Menu Home";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
             this.tableLayoutPanel5.ResumeLayout(false);

@@ -1,7 +1,0 @@
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\bin\Debug\TP1_lib.dll
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\bin\Debug\TP1_lib.pdb
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\obj\Debug\TP1.item_box.resources
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\obj\Debug\TP1_lib.csproj.GenerateResource.cache
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\obj\Debug\TP1_lib.csproj.CoreCompileInputs.cache
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\obj\Debug\TP1_lib.dll
-C:\Users\ahmad\OneDrive\Documents\_School_2\SM4\DPBO\TP1PBO2021\TP1_lib\obj\Debug\TP1_lib.pdb
